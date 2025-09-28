@@ -1,0 +1,13 @@
+name: Lab2
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - seaborn
+  - matplotlib
+  - pandas
+  - python
+  - ipykernel
+  - scikit-learn
+  - ipywidgets
+prefix: /home/cnaranjom/miniconda3/envs/Lab2
